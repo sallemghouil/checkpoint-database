@@ -1,0 +1,25 @@
+///////////Presenting each of the RDBMS and their functionalities///////
+MySQL:
+MySQL est un système de gestion de base de données relationnelle basé sur le langage de requête structuré, qui est le langage populaire pour accéder et gérer les enregistrements de la base de données. MySQL est un logiciel libre et open source sous licence GNU. Il est pris en charge par Oracle Company .
+Première version: 23 mai 1995
+
+**********
+PostgreSQL:
+PostgreSQL est une base de données SQL open source qui n'est contrôlée par aucune société. Il est généralement utilisé pour le développement d'applications Web.
+PostgreSQL partage plusieurs des mêmes avantages que MySQL. Il est facile à utiliser, peu coûteux, fiable et dispose d'une large communauté de développeurs. Il fournit également des fonctionnalités supplémentaires telles que la prise en charge des clés étrangères sans nécessiter de configuration complexe.
+
+***********
+SQLserver:
+SQL Server est un système de gestion de base de données (SGBD) en langage SQL incorporant entre autres un SGBDR  développé et commercialisé par la société Microsoft. Il fonctionne sous les OS Windows et Linux (depuis mars 2016), mais il est possible de le lancer sur Mac OS via Docker, car il en existe une version en téléchargement sur le site de Microsoft1.
+///////////A comparison between the three RDBMS//////////
+Data Changes : 
+
+Among these three, SQL Server offers perhaps the most flexibility and efficiency, because it allows monitoring updated rows and columns, collecting errors, and automating the process. The difference between SQL Server and MySQL and Postgresql lies mainly in customizing the positions – SQL Server offers a lot more than others.
+
+Defragmentation :
+
+MySQL and SQL Server offer more of defragmentation methods that Postgresql does. They consume less CPU and provide more flexible settings.
+
+Data Queries : 
+
+If your priority is to save computing resources and storage, choose flexible solutions: the choice will be between MySQL vs SQL Server. However, if you prefer clear organization and long-term order, Postgre, with its isolated approach, might be a better fit.
